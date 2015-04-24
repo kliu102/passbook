@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 import android.view.ViewPropertyAnimator;
 import android.view.animation.AccelerateDecelerateInterpolator;
 import android.widget.AbsListView;
-import cn.xing.mypassword.R;
+import cn.xing.passbook.R;
 
 import com.twotoasters.jazzylistview.effects.CardsEffect;
 import com.twotoasters.jazzylistview.effects.CurlEffect;

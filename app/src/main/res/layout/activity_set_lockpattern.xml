@@ -16,7 +16,7 @@
         android:layout_height="match_parent"
         android:background="#25000000" />
 
-    <cn.xing.mypassword.view.LockPatternView
+    <cn.xing.passbook.view.LockPatternView
         android:id="@+id/set_lockpattern_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
