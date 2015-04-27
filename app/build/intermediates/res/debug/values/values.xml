@@ -140,7 +140,7 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="no">否</string>
     <string name="no_password_tips">还没有保存密码\n点击右上角的\"+\"添加几个吧</string>
-    <string name="package_name">cn.xing.mypassword</string>
+    <string name="package_name">cn.xing.passbook</string>
     <string name="password">密码：</string>
     <string name="password_group">分组：</string>
     <string name="password_group_add">添加分组</string>

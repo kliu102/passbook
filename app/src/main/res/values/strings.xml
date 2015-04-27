@@ -81,7 +81,7 @@
     <string name="import_file_failed">文件已损坏，密码导入失败！</string>
     <string name="import_file_successs">导入成功，本次一共导入%d个密码。</string>
     <string name="common_sure">确 定</string>
-    <string name="package_name">cn.xing.mypassword</string>
+    <string name="package_name">cn.xing.passbook</string>
     <string name="password_group_title">密码分组</string>
     <string name="password_group_add">添加分组</string>
     <string name="password_group_default_name">默认</string>
